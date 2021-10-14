@@ -1,4 +1,4 @@
-package primitivedatatypes;
+package Prvypolrok.primitivedatatypes;
 
 public class PreteceniePamate {
     public static void main (String[] args){

@@ -1,4 +1,4 @@
-package stvrtok23;
+package Prvypolrok.tyzden39.stvrtok23;
 
 public class ktomavacsi {
     public static void main(String[] args) {
