@@ -8,7 +8,7 @@ public class domacauloha {
         int a = 5;
         int b = 6;
         int c = 8;
-        int va = 9;
+        int va = 3;
 
         System.out.println(" Povrch valca " + (2*Math.PI*r*(r+v)));
         System.out.println(" Obsah elipsy " + (Math.PI*a*b));
