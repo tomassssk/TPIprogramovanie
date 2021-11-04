@@ -3,7 +3,7 @@ package Prvypolrok.tyzden42;
 public class uloha {
     public static void main(String[] args) {
         ParneNeparne(2000);
-        PriestupnyRok(1900);
+        PriestupnyRok(2012);
     }
     static void ParneNeparne(int x){
         if(x % 2 ==0)
@@ -36,3 +36,4 @@ public class uloha {
     }
 }
 // %4 %100 %400
+

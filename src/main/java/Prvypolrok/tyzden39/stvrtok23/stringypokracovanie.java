@@ -13,6 +13,6 @@ public class stringypokracovanie {
 
         System.out.println(celeMeno.indexOf("T"));//lower case uppercase , index0F,substring,length
         System.out.println(celeMeno.substring(indexPriezviska));
-        System.out.println(celeMeno.substring(6,13));
+        System.out.println(celeMeno.substring(6,13));// pisomka if else , for cykly, else if, ako vytvorit metodu , povinne parametre
     }
 }
