@@ -1,8 +1,11 @@
 package Prvypolrok.Tyzden45;
 
+import java.util.Arrays;
+
 public class Polia {
 
     public static void main(String[] args) {
+        PoliaOsem();
 
     }
 
@@ -17,5 +20,23 @@ public class Polia {
         char[] char1 = new char[5];
         char[] char2 = {0,1,104};
         String[] string1 = new String[5];
+
+        // sort , array to string
+        int[] randomnumbers = new int[]{1,5,5,6,58,69,9,5,41,56};
+        //Arrays.sort(randomnumbers);
+        //System.out.println(randomnumbers.toString());
+        //System.out.println(Arrays.toString(randomnumbers));
+        // Binary search
+
+        int vysledok1 = Arrays.binarySearch(randomnumbers, 6);
+        System.out.println(vysledok1);
+
+        Arrays.sort(randomnumbers);
+        vysledok1 = Arrays.binarySearch(randomnumbers,6);
+        System.out.println(vysledok1);
+
+        System.out.println(Arrays.toString(randomnumbers));
+
+
     }
 }

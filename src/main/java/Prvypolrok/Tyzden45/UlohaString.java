@@ -15,6 +15,7 @@ public class UlohaString {
                 neco++;
 
             }
+
         }
         System.out.println("Veta ma " + neco+ " medzier") ;
 
