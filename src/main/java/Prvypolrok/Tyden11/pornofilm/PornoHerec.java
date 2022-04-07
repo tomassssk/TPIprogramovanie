@@ -42,6 +42,7 @@ public class PornoHerec {
         return objemVacku;
     }
 
+
     public String getPseudonym() {
         return pseudonym;
     }

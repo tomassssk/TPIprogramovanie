@@ -10,13 +10,20 @@ public class Nasefilmy2 {
     public static void main(String[] args) {
 
         PornoHerecka pornoHerecka = pornoHerecky().get(0);
+        List<PornoHerec> herci = pornoHerci();
+        for (PornoHerec pornoHerec : herci) {
+            System.out.println(pornoHerec.getObjemVacku());
 
-
-        getObjemVacku();
+        }
 
         pornoHerecka.robiGangbang(pornoHerci());
 
-        getObjemVacku();
+        for (PornoHerec pornoHerec : herci) {
+
+            System.out.println(pornoHerec.getObjemVacku());
+
+        }
+
 
     }
 
@@ -25,3 +32,4 @@ public class Nasefilmy2 {
 
     }
 }
+
