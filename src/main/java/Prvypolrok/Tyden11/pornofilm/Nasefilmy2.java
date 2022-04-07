@@ -1,9 +1,9 @@
-package druhypolrok.tyzden11.pornofilm;
+package Prvypolrok.Tyden11.pornofilm;
 
 import java.util.List;
 
-import static druhypolrok.tyzden11.pornofilm.Commons.pornoHerci;
-import static druhypolrok.tyzden11.pornofilm.Commons.pornoHerecky;
+import static Prvypolrok.Tyden11.pornofilm.Commons.pornoHerci;
+import static Prvypolrok.Tyden11.pornofilm.Commons.pornoHerecky;
 
 public class Nasefilmy2 {
 
