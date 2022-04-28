@@ -17,7 +17,7 @@ public class NaseFilmy {
         PornoHerecka erzika = new PornoHerecka(" Jane Boo",
                 "huhucoctail",2.1,19);
 
-
+        PornoHerec neco = new PornoHerec("Neco","Neco",1,1,1);
 
 
         List<PornoHerec> pornoherci = new ArrayList<>();
